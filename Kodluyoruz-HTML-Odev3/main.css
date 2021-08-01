@@ -1,0 +1,50 @@
+header { 
+    width: auto;
+    height: auto;
+    text-align:center;
+  }
+  
+  header img {
+    display:inline-block;
+  }
+
+  section {
+      text-align: center;
+      background-color: #EEEEEE;
+  }
+
+  footer {
+      text-align: center;
+      padding: 1%;
+  }
+
+  #bottom1 {
+    float:left; 
+    background:#7EE5DA;
+    width:37%;
+    height:140px;
+}
+#bottom2{
+    float:left; 
+    background:#70CCC2;
+    width:25%;
+    height:140px;
+}
+#bottom3{
+    float:right;
+    background:#62B3AA;
+    width:38%;
+    height:140px;
+    
+}
+
+.bottom{
+    text-align: center;
+    
+}
+
+body {
+    width: 90%;
+    margin-left: 5%;
+}
+
