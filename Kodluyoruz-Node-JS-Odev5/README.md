@@ -1,6 +1,6 @@
 # createServer metodu ile web sunucusu yazımı
 
-![Project View](Odev5.PNG)
+![Project View](Odev5.png)
 
 - require ile http metodu import edildi.
 - port ve hostname değişkenleri tanımlandı
